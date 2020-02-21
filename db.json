@@ -1,24 +1,24 @@
 {
-  "prof":[
-  {
-    "name": "Інженер ІТ, програміст",
-    "link": "#"
-  },
-  {
-    "name": "Архітектор",
-    "link": "#"
-  },
-  {
-    "name": "Бухгалтер",
-    "link": "#"
-  },
-  {
-    "name": "Менеджер з реклами і РR, маркетолог",
-    "link": "#"
-  },
-  {
-    "name": "Журналіст",
-    "link": "#"
-  }
-]
+  "prof": [
+    {
+      "name": "Інженер ІТ, програміст",
+      "link": "recomend_math.html"
+    },
+    {
+      "name": "Архітектор",
+      "link": "recomend_math.html"
+    },
+    {
+      "name": "Бухгалтер",
+      "link": "recomend_math.html"
+    },
+    {
+      "name": "Менеджер РR, маркетолог",
+      "link": "recomend_gumanytary.thml"
+    },
+    {
+      "name": "Журналіст",
+      "link": "recomend_gumanytary.thml"
+    }
+  ]
 }
